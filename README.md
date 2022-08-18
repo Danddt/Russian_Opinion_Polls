@@ -23,7 +23,7 @@ poverty,  income and wealth inequality have been decreasing (Gini Index: ‘http
 the health of the nation has been improving, as suggested by the reduction in alcohol consumption and increasing spending  on the health sector;
 personal safety has improved too, as suggested by the decrease in homicides (Intentional homicides (per 100,000 people) rate , https://data.worldbank.org/indicator/VC.IHR.PSRC.P5) 
 
-MISSING IMAGE
+![alt text](![economic_social_indicators_world_data](https://user-images.githubusercontent.com/39082620/185410449-56d6ab07-0320-4eda-9afb-f432e1ba3964.jpg)
 
 Assessment of the situation in the country, present and near future
 Q: “Is Russia moving in the right direction or is this course a dead-end?” 
@@ -39,7 +39,7 @@ Between 2006 and 2007  the country's GDP had grown at  8.2% and 8.5%  in 2006 an
   
 The optimism implied in the responses to the question:’Is Russia moving in the right direction ?’ , is echoed in the ‘Social Sentiment Index’  
 
-![alt text]
+![alt text](https://user-images.githubusercontent.com/39082620/185339785-34b9c51f-5a35-4dfa-b2fe-4b023ad9bf02.jpg)
 
 In  2007 the index consistently reached the mid 80s and above, peaking at 100 in early 2008.
 
@@ -51,8 +51,7 @@ The downward trend in both the Social Sentiment Index and responses to the quest
 Attitudes towards the EU and the USA
 Attitudes towards the EU and the USA had been overall positive since the early 2000s, even if an emerging downward trend can be noticed; they declined once the 2008 Recession hit Russia, and although they recovered since, there was a sharper decline when sanctions were imposed on the Russian Federation after the first ‘military operation’ in Ukraine in 2014. Up to the beginning of this year positive attitudes towards both the EU and the USA had been raising, to decline again after the second, and current, ‘military operation’ in Ukraine. 
 
-![alt text]
-
+![alt text](https://user-images.githubusercontent.com/39082620/185339780-6b2bc192-7f78-4a0e-9c96-ffa2663dd474.jpg)
 
 Although economic and political reasons can be sighted for the sharp declines in attitudes towards the USA and the EU, the overall decline could also be attributed to a growing disillusionment with the ‘Western Model’; drawing parallels with the Soviet era , 
 “When the Red Project inspired all citizens of the country, when faith in the bright future that they build with their own hands was unshakable, the country had amazing achievements…[as the] 'Red Project' began to (..) lose its attractiveness it revealed the emptiness and absence meanings” (V.N. SHEVCHENKO. ‘To discussions around the topic "The collapse of Russia", pg. 17-18) 
@@ -61,7 +60,7 @@ Stretching the parallel, the enthusiasm for the USA and EU models may be fading 
 Putting it all together
 The following graph is designed to highlight trends in  responses, 
 
-![alt text]
+![alt text](https://user-images.githubusercontent.com/39082620/185339801-cd84c8be-1dbe-4e56-9ac1-f1907d971593.jpg)
 
 Putting it all together, the overall picture is of stability, consensus and widespread approval of the country’s institutions and the people at the helm.
 
@@ -72,26 +71,28 @@ The data from the World Bank suggests that under the stewardship of Mr Putin the
 
 A large part of the Russian State income depends on the selling of commodities and the tax revenue these generate. Here, I have sampled only three, Brent Oil prices in the EU markets, Natural Gas Prices EU markets ( the EU as whole,  is a lucrative market for Russia with low delivery costs due to proximity and well established infrastructure and logistics) , and wheat (Russia is the largest exporter of wheat , followed by USA and Canada (https://en.wikipedia.org/wiki/List_of_countries_by_wheat_exports)).
 
-![alt text]
+![alt text](https://user-images.githubusercontent.com/39082620/185339791-418e9677-2bb6-4e69-a8a8-3bfa1f11e6a9.jpg)
+
 Gas and oil prices have been declining in recent years, which would have a negative impact on the state revenue and ability to fund itself and invest in infrastructure  and social programmes. In addition the  strength of the Ruble against the Dollar has been declining, which has a negative impact on standards of living  in a country, such as Russia, that depend on imports of many manufactured goods (list of top Russia imports : https://oec.world/en/profile/country/rus).
 
 
 The results of the opinion polls point at a high level of consensus in the country, however  there have been a number of domestic terror incidents. 
-![alt text]
+![alt text](![image](https://user-images.githubusercontent.com/39082620/185408797-811d72bb-423b-49b4-bbe5-b0fcd2226f99.png)
 
 In addition, the Russian Federation has been involved in a number of conflicts since its formation, especially with neighboring countries and ex soviet states. 
-![alt text]
+![alt text](https://user-images.githubusercontent.com/39082620/185339790-4bc11671-c70e-4370-8e36-d160a053ac81.jpg)
 
 
 Terrorist incidents and conflicts although may intially spurr the population to rally around the central government, this support tends to fade overtime and may give way to dissatisfaction with the ability of the state to prevent terror attacks, or, in the case of ongoing conflicts, with the econimic and human costs of these military operations. 
 
 Personal security in the country has improved greatly, as suggested by the sharp decline in homicides, independent journalists have benefitted from this trend too, but perhaps not as much as the rest of the population,
-![alt text]
+![alt text](https://user-images.githubusercontent.com/39082620/185339799-5d07e575-329c-48a6-8332-4783728c9ef9.jpg)
 
 Legislation began to be passed in the 2000’s, aimed at ‘suppressing or prohibiting information that is considered obscene, politically unacceptable, or a threat to security’.
 
 In  order to visualize the legislative activity and events related to the implementation of these new laws, I have devised an arbitrary score for it ( see Arbitrary Score ), 
-![alt text]
+
+![alt text](https://user-images.githubusercontent.com/39082620/185339636-cb26d35e-37ac-4257-8441-13922e7e09b4.jpg)
 
 The amount of resources invested in controlling ‘flow and access to information’, seems somewhat excessive in a country with such high levels of approval of the state.
 Note:
@@ -99,7 +100,7 @@ In 2022 jail sentences were introduced for breaching the law(No.32-FZ, 62-FZ)(Se
 
 Looking again at the overall graph for the Levada Center opinion polls results and adding to it the change in laws and regulation surrounding access to and dissemination of  information, 
 
-![alt text]
+![alt text](https://user-images.githubusercontent.com/39082620/185339803-52740da1-b036-418f-84e7-f6b5d223c639.jpg)
 
 Opinion polls have consistently returned high levels of approval of the way the country is being governed, nonetheless, the Russian Government has felt the need to invest an ever increasing amount of resources  in  controlling all forms of media. 
 Anecdote (Speculation)
