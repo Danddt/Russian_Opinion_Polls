@@ -168,7 +168,7 @@ I summed occurrences of key events then selected a number of key words and assig
 
 > “Строгость российских законов смягчается необязательностью их исполнения(Ru.m.wikipedia.org) 
 
-> “The severity of Russian laws is alleviated by the lack of obligation to fulfill them” (Translation kindly provided by SetarkoYT, https://twitter.com/SetarkoYT), 
+> “The severity of Russian laws is alleviated by the lack of obligation to fulfill them” (Translation kindly provided by Setarko), 
 
 Therefore by extension, although the passing of a new law or amendment may be noted (score=1), it will have little impact, until a very visible implementation, in the form of, for example, a jail sentence, occurs (score=2). 
 Please see Notebook for details of the calculation.
