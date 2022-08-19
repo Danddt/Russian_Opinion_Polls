@@ -153,7 +153,7 @@ Notes on Methodology
 Calculation of the arbitrary score:
 
 I extracted the dates of key events listed in the wikipedia pages:
-###### * https://en.wikipedia.org/wiki/Internet_censorship_in_Russia* 
+###### *https://en.wikipedia.org/wiki/Internet_censorship_in_Russia* 
 ###### *https://en.wikipedia.org/wiki/List_of_websites_blocked_in_Russia*
 ###### *https://en.wikipedia.org/wiki/Media_freedom_in_Russia*
 ###### *https://en.wikipedia.org/wiki/2022_anti-war_protests_in_Russia*
